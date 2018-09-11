@@ -1,2 +1,2 @@
 # ServerWebSocket
-S
+SelfHost WebSocket Server
